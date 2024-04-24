@@ -1,6 +1,5 @@
 ### Hi,
-currently studiyng aerospace engineering at Politecnico di Milano,
-enjoyng space related topics.
+### currently studying aerospace engineering at the Milan Polytechnic, and is passionate about space issues.s.
 
 <!--
 **GiovanniPieroni/GiovanniPieroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
